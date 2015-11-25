@@ -6,3 +6,9 @@ resources for learning spanish
 
 ###Learning GIS
 ####http://resources.arcgis.com/es/help/main/10.2/
+
+http://startspanish.com/
+
+https://121spanish.com/
+
+https://www.verbling.com
