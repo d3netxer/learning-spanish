@@ -12,3 +12,6 @@ http://startspanish.com/
 https://121spanish.com/
 
 https://www.verbling.com
+
+http://www.linguee.com/english-spanish
+
