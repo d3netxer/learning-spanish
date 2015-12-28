@@ -15,3 +15,6 @@ https://www.verbling.com
 
 http://www.linguee.com/english-spanish
 
+http://www.wordreference.com/
+
+http://www.sdl.com/languagecloud/
